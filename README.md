@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/banner.jpg" alt="Banner" width="100%" />
-</div>
+</div> -->
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
  
