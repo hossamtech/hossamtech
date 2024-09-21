@@ -30,7 +30,7 @@ Outside of coding, I enjoy learning new languages, working out, and spending tim
 
 ### GitHub Stats :
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamtech&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamtech&layout=compact&theme=)
 
 ### Let's Connect!
 
