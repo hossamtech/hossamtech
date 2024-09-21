@@ -5,7 +5,7 @@
 # Hi there! 👋  
 I'm **Hossam**, a Full-Stack Developer
 
-I like combining my **technical knowledge** with **design** to create **beautiful** and **efficient applications**. My goal is to build **scalable** and **efficient software** while providing **engaging** and **flawless user experiences**.
+I like combining my technical expertise with design principles to create efficient applications. My aim is to develop scalable and high-performance solutions while delivering engaging and seamless user experiences
 
 ### 🚀 Skills
 - **Backend**: Java, Spring Boot, REST APIs
