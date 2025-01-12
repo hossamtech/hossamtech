@@ -6,7 +6,9 @@
  
 I'm [**Hossam**](https://hossamchokri.com), a passionate full stack developer. 
 
-I like combining my technical knowledge with design to create efficient applications. My goal is to build scalable and efficient applications while providing engaging and flawless user experiences.<br>
+
+
+I am passionate about using my technical expertise and problem-solving skills to build scalable, efficient applications. I focus on bridging back-end functionality with front-end usability to deliver seamless, engaging user experiences. I thrive on solving complex challenges, optimizing performance, and creating intuitive, user-centric designs. My goal is to craft robust solutions that meet modern development standards<br>
 
 Outside of coding, I enjoy learning new languages, working out, and spending time with family.
 
