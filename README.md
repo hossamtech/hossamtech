@@ -7,11 +7,9 @@
 I'm [**Hossam**](https://hossamchokri.com), a passionate full stack developer. 
 
 
+I am a software engineer driven by a passion for designing and building scalable, efficient, and user-focused applications. My expertise lies in integrating robust back-end architectures with intuitive front-end interfaces to deliver seamless digital experiences. I enjoy tackling complex challenges, optimizing system performance, and adhering to modern development standards and best practices.  
 
-I am passionate about using my technical expertise and problem-solving skills to build scalable, efficient applications. I focus on bridging back-end functionality with front-end usability to deliver seamless, engaging user experiences. I thrive on solving complex challenges, optimizing performance, and creating intuitive, user-centric designs. My goal is to craft robust solutions that meet modern development standards<br>
-
-Outside of coding, I enjoy learning new languages, working out, and spending time with family.
-
+Beyond technology, I am committed to continuous learning, personal growth, and maintaining a balanced lifestyle through language learning, fitness, and quality time with family.
 
 
 ### Skills :
@@ -19,6 +17,7 @@ Outside of coding, I enjoy learning new languages, working out, and spending tim
 ### 🔹 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -31,6 +30,7 @@ Outside of coding, I enjoy learning new languages, working out, and spending tim
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
